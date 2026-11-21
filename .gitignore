@@ -1,0 +1,6 @@
+# Nunca subir tokens: Simkl los revoca si los encuentra en GitHub
+.env
+*.env
+*token*
+!get_tokens.py
+__pycache__/
