@@ -3,4 +3,5 @@
 *.env
 *token*
 !get_tokens.py
+!get_simkl_token.ps1
 __pycache__/
